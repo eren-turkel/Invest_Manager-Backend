@@ -2,8 +2,6 @@
 AUTHOR: Eren Türkel
 24.12.2022
 
-EvaHomework
-
 Users: Include User Name and his balance.
 
 Shares: Include Share Name (3 CAPITAL LETTERS) and its rate.
